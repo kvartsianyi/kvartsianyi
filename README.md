@@ -1,4 +1,4 @@
-Hi there 👋. I'm a passionate **Node.js developer** from 🇺🇦Ukraine with over **2+ years of experience** in creating scalable and efficient applications. I thrive on learning new technologies and pushing my skills to the next level! 🚀
+Hi there 👋. I'm a passionate **Node.js developer** from **Ukraine** with over **2+ years of experience** in creating scalable and efficient applications. I thrive on learning new technologies and pushing my skills to the next level! 🚀
 
 <!--
 **kvartsianyi/kvartsianyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
